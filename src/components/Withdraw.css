@@ -1,0 +1,32 @@
+.withdraw-content {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 500px;
+    margin-top: 15rem;
+  }
+  
+  .withdraw-content h2 {
+    margin-bottom: 20px;
+  }
+  
+  .withdraw-content label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .withdraw-content input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .withdraw-content button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

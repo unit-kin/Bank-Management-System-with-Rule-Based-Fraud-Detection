@@ -1,0 +1,29 @@
+.adTop-nav{
+    padding-top: 20px;
+    display: flex;
+    max-height: 5rem;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    font-size: larger;
+}
+.adnav-item{
+    display: flex;
+}
+.adusername-mage{
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.adusername-mage .profile{
+    text-indent: 20px;
+    text-align: left;
+}
+.adnav-list button{
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}

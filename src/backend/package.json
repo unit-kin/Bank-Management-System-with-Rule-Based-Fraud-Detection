@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is my backend",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js",
+    "server": "nodemon Server.js"
+  },
+  "author": "Alvin Kang'ara",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "crypto-random-string": "^5.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "macaddress": "^0.5.3",
+    "mysql2": "^3.5.2",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  }
+}

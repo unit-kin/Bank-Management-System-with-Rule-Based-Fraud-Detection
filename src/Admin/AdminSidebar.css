@@ -1,0 +1,49 @@
+.AdSide-nav{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    height: 90vh;
+    box-shadow: 5px 12px 10px lightgrey;
+    background-color: rgba(255, 255, 255, 0.966);
+    color: rgb(0, 0, 0);
+    padding: 1rem;
+    font-size: larger;
+    position: absolute;
+    
+    
+}
+.Adside-container{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    height: 78vh;
+    display: flex;
+    flex-direction: column;
+    
+    
+
+  
+
+}
+.Adside-option {
+
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 50px;
+    
+    margin-left: 30px;
+}
+.Adside-option button{
+    width: 100px;
+    cursor: pointer;
+}
+.Adside-option button:hover{
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(184,238,209,1) 0%, rgba(74,208,174,1) 46%, rgba(90,205,187,1) 57%, rgba(87,216,228,1) 84%, rgba(51,221,255,1) 100%);
+}
+.Fraud-Notifications{
+    margin-top: -20rem;
+}

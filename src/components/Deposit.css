@@ -1,0 +1,32 @@
+.deposit-content {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 500px;
+    margin-top: 15rem;
+  }
+  
+  .deposit-content h2 {
+    margin-bottom: 20px;
+  }
+  
+  .deposit-content label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .deposit-content input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .deposit-content button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

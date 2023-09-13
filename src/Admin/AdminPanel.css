@@ -1,0 +1,15 @@
+.SideandContent{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Admincontent{
+    margin-left: 300px;
+    margin-top: 20px;
+
+}
+.AdminNotifications{
+    width: 30rem;
+    max-height: 20rem;
+}
+

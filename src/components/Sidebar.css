@@ -1,0 +1,36 @@
+.Side-nav{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+
+    color: black;
+    padding: 1rem;
+    font-size: larger;
+    position: absolute;
+    
+    
+}
+.side-container{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    height: 90vh;
+    
+    
+
+  
+
+}
+.side-option {
+
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 50px;
+    
+    margin-left: 30px;
+}
+.side-option button{
+    width: 100px;
+}

@@ -1,0 +1,20 @@
+.Orgcards{
+    display: flex;
+    justify-content: space-around;
+    width: 40rem;
+}
+.Cards{
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(184,238,209,1) 0%, rgba(74,208,174,1) 46%, rgba(90,205,187,1) 57%, rgba(87,216,228,1) 84%, rgba(51,221,255,1) 100%); 
+    width: 170px;
+    height: 10rem;
+    border-radius: 25px;
+    text-align: center;
+}
+.NoofUsers{
+    margin-top: 15px;
+}
+.Fraud{
+    margin-top: 15px;
+}

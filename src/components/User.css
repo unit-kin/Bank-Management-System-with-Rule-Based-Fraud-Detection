@@ -1,0 +1,86 @@
+.user{
+    background-color: white;
+    height: 100vh;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+   
+    
+}
+.Top-nav{
+    padding-top: 20px;
+    display: flex;
+    max-height: 5rem;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    font-size: larger;
+}
+.username-mage{
+    display: flex;
+    align-items: center;
+    color: black;
+    gap: 2rem;
+}
+.user-body{
+    display: flex;
+    justify-content: space-between;
+    height: fit-content;
+    margin-top: 10px;
+}
+
+.Content{
+    margin-top: 20px;
+    height: 70vh;
+    max-width: 800px;
+    
+   
+}
+.content-container{
+    margin-left: 300px;
+    margin-top: -13rem;
+    height: 70vh;
+    max-width: 800px;
+}
+.Transactiondata{
+    margin-top: 200px;
+    
+}
+.Balance{
+    margin-top: -10rem ;
+    color: black;
+    margin-left: 50px;
+}
+.Balance p{
+    color: black;
+    font-weight: 800;
+    font-size: larger;
+}
+.Notifications{
+    margin-left: 20px;
+    font-size:medium;
+    
+   
+    
+}
+.message {
+    border-bottom: 1px solid #e0e0e0; /* You can adjust the color to fit your theme */
+    padding: 10px 0; /* This gives some space above and below the text */
+  }
+.not-icon{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    justify-content: space-between;
+}
+.nav-list button{
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-content: center;
+}
+.NotificationTable{
+    height: 50vh;
+    margin-right: 30px;
+    border: 1px solid grey;
+}
