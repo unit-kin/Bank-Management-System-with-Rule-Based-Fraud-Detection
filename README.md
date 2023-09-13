@@ -20,6 +20,9 @@ You may also see any lint errors in the console.
 
 Delete all the node modules folders and initiate npm install in both the front-End and the Backend.
 
+### import the db called fraud-detection in mysqlworkbench
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
