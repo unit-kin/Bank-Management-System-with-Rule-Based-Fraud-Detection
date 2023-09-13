@@ -19,9 +19,9 @@ app.use(cors());
 // MySQL database connection configuration
 const dbConfig = {
   host: '127.0.0.1', // Replace with your MySQL host address
-  user: 'alvin', // Replace with your MySQL username
-  password: '6sehz699a.Top', // Replace with your MySQL password
-  database: 'fraud-detection', // Replace with your MySQL database name
+  user: '', // Replace with your MySQL username
+  password: '', // Replace with your MySQL password
+  database: '', // Replace with your MySQL database name
 };
 
 // Create a connection pool
