@@ -1,4 +1,7 @@
 # Bank-Management-System-with-Rule-Based-Fraud-Detection
+### The system uses heuristic rules based on industry insights and historical transaction
+patterns to identify potentially fraudulent activities and was integrated into an existing banking
+infrastructure to bolster transactional security.
 
 # Getting Started with Create React App
 
